@@ -39,5 +39,6 @@
 
 ## **🖼️ Featured Image**  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AmanPrakash/AmanPrakash/main/assets/profile-banner.png" alt="Profile Banner Image" width="800"/>
+  <img src="https://raw.githubusercontent.com/amanprakash1712/amanprakash1712/main/profile-banner.png" alt="Profile Banner Image" width="800"/>
 </p>
+
