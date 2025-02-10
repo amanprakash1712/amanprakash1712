@@ -4,7 +4,7 @@
 - 👀 Passionate about data visualization & analytics  
 - 🌱 Currently learning **Machine Learning & Data Storytelling**  
 - 💡 Open to collaborate on **Data Analysis Projects**  
-- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/aman-prakash-b8601b185/)**  
+- 🔗 Connect with me on **[LinkedIn](www.linkedin.com/in/aman-prakash-analytics)**  
 
 ---
 
@@ -33,7 +33,7 @@
 
 ## **📫 Contact Me:**  
 📩 Email: amanprakash1712@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/aman-prakash-b8601b185](https://www.linkedin.com/in/aman-prakash-b8601b185/)  
+🔗 LinkedIn: [linkedin.com/in/aman-prakash-analytics](www.linkedin.com/in/aman-prakash-analytics/)  
 
 ---
 
