@@ -31,29 +31,13 @@
 
 ---
 
-## **📈 GitHub Stats**  
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AmanPrakash&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanPrakash&theme=tokyonight"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmanPrakash&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## **📫 Contact Me:**  
 📩 Email: amanprakash1712@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/aman-prakash-b8601b185](https://www.linkedin.com/in/aman-prakash-b8601b185/)  
 
 ---
 
-## **🐍 Contribution Snake**  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AmanPrakash/AmanPrakash/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
-</p>
-
----
-
 ## **🖼️ Featured Image**  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AmanPrakash/AmanPrakash/main/profile-banner.png" alt="Profile Banner Image" width="800"/>
+  <img src="https://raw.githubusercontent.com/AmanPrakash/AmanPrakash/main/assets/profile-banner.png" alt="Profile Banner Image" width="800"/>
 </p>
